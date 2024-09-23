@@ -6,4 +6,6 @@ if(operacao === 'somar') {
     console.log(num1 + num2)
 } else if(operacao === 'subtrair') {
     console.log(num1 - num2)
+} else if(operacao === 'multiplicar') {
+    console.log(num1 * num2)
 }
