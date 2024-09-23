@@ -8,4 +8,6 @@ if(operacao === 'somar') {
     console.log(num1 - num2)
 } else if(operacao === 'multiplicar') {
     console.log(num1 * num2)
+} else if(operacao === 'dividir') {
+    console.log(num1 / num2)
 }
