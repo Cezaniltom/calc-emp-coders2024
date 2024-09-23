@@ -10,4 +10,6 @@ if(operacao === 'somar') {
     console.log(num1 * num2)
 } else if(operacao === 'dividir') {
     console.log(num1 / num2)
+} else {
+    console.log('A operação que deseja realizar é inválida')
 }
